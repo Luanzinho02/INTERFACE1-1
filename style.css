@@ -1,0 +1,12 @@
+#container{
+    background-color: yellow;
+    height: 200px;
+    display: flex;
+}
+
+.item{
+    background-color: gray;
+    color:cadetblue ;
+    padding: 20px;
+    margin: 5px;
+}
